@@ -5,7 +5,7 @@
 
 ### Демонстрация:
 
-* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://banditos86.github.io/react-shopping-cart/ "Product cart"), либо скачать репозиторий из ветки dev:
+* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://sashadev86.github.io/react-shopping-cart/ "Product cart"), либо скачать репозиторий из ветки dev:
 ```javascript
   https://github.com/BANDITOS86/react-shopping-cart/tree/dev
 ```
@@ -26,7 +26,7 @@
   npm run deploy
 ```
 
-### Deploy: [Product cart](https://banditos86.github.io/react-shopping-cart/ "Product cart")
+### Deploy: [Product cart](https://sashadev86.github.io/react-shopping-cart/ "Product cart")
 
 ### Результат:
-[![Product cart](https://github.com/BANDITOS86/my-img/blob/main/product-cart.png?raw=true)](https://banditos86.github.io/react-shopping-cart/)
+[![Product cart](https://github.com/BANDITOS86/my-img/blob/main/product-cart.png?raw=true)](https://sashadev86.github.io/react-shopping-cart/)
