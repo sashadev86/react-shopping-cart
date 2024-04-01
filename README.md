@@ -7,7 +7,7 @@
 
 * Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://banditos86.github.io/react-shopping-cart/ "Product cart"), либо скачать репозиторий из ветки dev:
 ```javascript
-  https://github.com/BANDITOS86/react-shopping-cart/tree/dev
+  https://github.com/sashadev86/react-shopping-cart/tree/dev
 ```
 * После скачивания репозитория, для подтягивания всех зависимостей в терминале запустите команду:
 ```javascript
